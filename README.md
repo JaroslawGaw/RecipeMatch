@@ -1,2 +1,0 @@
-# RecipeMatch
-Cook Book application. 
