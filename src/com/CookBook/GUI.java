@@ -27,6 +27,7 @@ public class GUI implements ActionListener {
         panel.add(button);
         panel.add(label);
 
+        
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Recipe Match");
