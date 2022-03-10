@@ -26,7 +26,6 @@ public class GUI implements ActionListener {
         panel.setLayout(new GridLayout(0, 1));
         panel.add(button);
         panel.add(label);
-
         
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
