@@ -20,6 +20,7 @@ public class GUI implements ActionListener {
         button.addActionListener(this);
         label = new JLabel("Nr of button clicked: 0");
 
+        
         panel = new JPanel();
         panel.setBorder(BorderFactory.createEmptyBorder(30, 60, 10, 60));
         panel.setLayout(new GridLayout(0, 1));
